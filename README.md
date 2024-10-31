@@ -1,6 +1,3 @@
-[#DEGISKENLER](DEGISKENLER)
-
-# KONULAR
 # DEGISKENLER 
 "
 Değişkenler: Temel Kavramlar ve Kullanım Alanları
